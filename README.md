@@ -1,5 +1,5 @@
 # activation-tails
-Exploring the information available in the minor mixture modes of activation vector values, ignoring dimension. Predicting text characteristics from that data alone.See this post for more info: https://www.lesswrong.com/posts/6PCjTM55jdYBgHNyp/activation-magnitudes-matter-on-their-own-insights-from-1
+Exploring the information available in the minor mixture modes of activation vector values, ignoring dimension. Predicting text characteristics from that data alone.See [this post](https://www.lesswrong.com/posts/6PCjTM55jdYBgHNyp/activation-magnitudes-matter-on-their-own-insights-from-1) for more info.
 
 For the results in that post, the following command created the all data points results:
 
