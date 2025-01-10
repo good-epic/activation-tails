@@ -1,0 +1,106 @@
+{
+    "test_sentences": [
+        "Monetary policy, the actions of a central bank to control the money supply and interest rates, can affect inflation, employment, and economic output.",
+        "Inflation is the sustained increase in the general price level of goods and services in an economy over time.",
+        "The concept of comparative advantage, the ability of a country to produce a good or service at a lower opportunity cost than another country, is a fundamental principle in international trade theory.",
+        "Sustainable development and environmental considerations have become increasingly important in economic decision-making.",
+        "International trade, the exchange of goods and services between countries, can lead to specialization, comparative advantage, and increased economic efficiency.",
+        "Fiscal policy, involving government spending and taxation, can be used to manage the economy.",
+        "The principles of economics govern the production, distribution, and consumption of goods and services in a society.",
+        "Inflation is a sustained increase in the general price level of goods and services in an economy over time.",
+        "The Phillips curve illustrates the inverse relationship between inflation and unemployment, which is a key concern for policymakers.",
+        "The concept of opportunity cost is fundamental in economics, where making a choice means foregoing the next best alternative.",
+        "The role of the government in the economy, whether to promote competition, address market failures, or ensure economic stability, is a topic of ongoing debate.",
+        "Sustainable development seeks to balance economic growth, environmental protection, and social equity, aiming for long-term prosperity.",
+        "Globalization, the increasing interconnectedness of the world's economies, has had far-reaching implications for businesses and consumers.",
+        "Globalization has increased the interdependence of national economies, leading to both opportunities and challenges.",
+        "Technological advancements have transformed the way businesses operate and how consumers make purchasing decisions.",
+        "The concept of opportunity cost is central to economic analysis, as individuals and firms must make choices given limited resources.",
+        "Monetary policy, fiscal policy, and international trade are critical components of economic policy-making.",
+        "Emerging markets refer to rapidly growing economies with significant potential for further development.",
+        "The concept of supply-side economics emphasizes the importance of policies that encourage investment and productivity growth.",
+        "Microeconomics focuses on the behavior of individual consumers, firms, and markets, while macroeconomics examines the overall performance of the economy."
+    ],
+    "test_categories": [
+        [
+            "about economics",
+            "in english"
+        ],
+        [
+            "about economics",
+            "in spanish"
+        ],
+        [
+            "about economics",
+            "in all lower case"
+        ],
+        [
+            "about economics",
+            "in an angry tone"
+        ],
+        [
+            "about music",
+            "in english"
+        ],
+        [
+            "about music",
+            "in spanish"
+        ],
+        [
+            "about music",
+            "in all lower case"
+        ],
+        [
+            "about music",
+            "in an angry tone"
+        ],
+        [
+            "about computer science",
+            "in english"
+        ],
+        [
+            "about computer science",
+            "in spanish"
+        ],
+        [
+            "about computer science",
+            "in all lower case"
+        ],
+        [
+            "about computer science",
+            "in an angry tone"
+        ],
+        [
+            "about politics",
+            "in english"
+        ],
+        [
+            "about politics",
+            "in spanish"
+        ],
+        [
+            "about politics",
+            "in all lower case"
+        ],
+        [
+            "about politics",
+            "in an angry tone"
+        ],
+        [
+            "about poetry",
+            "in english"
+        ],
+        [
+            "about poetry",
+            "in spanish"
+        ],
+        [
+            "about poetry",
+            "in all lower case"
+        ],
+        [
+            "about poetry",
+            "in an angry tone"
+        ]
+    ]
+}
